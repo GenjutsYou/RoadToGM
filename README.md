@@ -32,7 +32,7 @@ Customize your chess pieces and board layouts to your liking, and compete for th
 ## Contact
 For any questions or inquiries, please reach out to me:
 - Email: arunmundackal7@gmail.com, reevepauls@gmail.com
-- GitHub: [GenjutsYou](https://github.com/GenjutsYou)
+- GitHub: [GenjutsYou](https://github.com/GenjutsYou), [caramalo](https://github.com/caramalo)
 
 ## Link
 
