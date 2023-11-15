@@ -4,7 +4,7 @@
 
 ## Description
 
-Road to Grandmaster - Chess app designed to assist players in honing their skills and enjoying thrilling online chess gameplay.
+Road to GM is a chess app designed to assist players in honing their skills and enjoying thrilling online chess gameplay as they journey to becoming a Grandmaster in chess.
 
 ## Table of Contents
 
