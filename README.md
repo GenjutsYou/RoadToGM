@@ -1,10 +1,10 @@
-# Grandmaster
+# Road To GM
 
 
 
 ## Description
 
-Grandmaster Chess is a chess app designed to assist players in honing their skills and enjoying thrilling online chess gameplay.
+Road to Grandmaster - Chess app designed to assist players in honing their skills and enjoying thrilling online chess gameplay.
 
 ## Table of Contents
 
